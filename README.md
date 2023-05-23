@@ -68,6 +68,7 @@ edge joining 2nd node (peak2 output) to the output node
 bias edge
 
 ## PROGRAM:
+```
 Developed By:M.GUNASEKHAR
 Reg.No:212221240014
 
@@ -143,7 +144,7 @@ print(f"Input:{np.array([0, 1])}, Predicted: {predict_matrix(np.array([0, 1]), w
 print(f"Input:{np.array([1, 0])}, Predicted: {predict_matrix(np.array([1, 0]), w)}")
 print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w)}")
 
-
+```
 
 ## OUTPUT :
 ![N1](https://github.com/gunasekhar159/Experiment-5-Implementation-of-XOR-using-RBF/assets/95043391/407fb1af-5189-44a4-8526-d77c0018cb9a)
